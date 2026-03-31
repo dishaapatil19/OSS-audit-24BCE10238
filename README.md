@@ -16,7 +16,7 @@ This project is a structured audit of an open-source software system. It explore
 
 ##  Chosen Software
 
-**[Write your chosen software here — e.g., Git / Linux Kernel / Apache / MySQL / Python]**
+**[My chosen software — Python]**
 
 ---
 
