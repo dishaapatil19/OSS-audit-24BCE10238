@@ -2,8 +2,8 @@
 
 ##  Student Details
 
-* **Name:** [Your Name]
-* **Roll Number:** [Your Roll Number]
+* **Name:** Dishaa Sandip Patil
+* **Roll Number:** 24BCE10238
 * **Course:** Open Source Software (OSS NGMC)
 
 ---
